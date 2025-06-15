@@ -20,13 +20,3 @@ onload = () => {
     clearTimeout(c);
   }, 1000);
 };
-
-</head>
-<h1> AUDIO/AUTOPLAY</h1>
-<body style = "background: url(black.jpg): background
--size: fixed:")
-<audio autoplay:
-<source src = "Neu Roses (Transgressor s Song).mp3" type="audio/mp3)
-</audio>
-</body>
-</html>
